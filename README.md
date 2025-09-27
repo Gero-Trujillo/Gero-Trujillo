@@ -26,10 +26,10 @@
 ## 🌐 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/tu-perfil" target="_blank">
+  <a href="https://www.linkedin.com/in/geronimo-trujillo-82053525a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-FF6F00?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/tu-usuario" target="_blank">
+  <a href="https://www.instagram.com/trujillog11_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FF6F00?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://tuportafolio.com" target="_blank">
